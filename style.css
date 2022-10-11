@@ -85,13 +85,13 @@ box-shadow: 5px 7px 47px -7px #000000;
 
 h1 {
   text-transform: uppercase;
-  letter-spacing: 5px;
+
   font-size: 3rem;
 }
 
 p {
   font-size: 1.15rem;
-  letter-spacing: 3px;
+ 
   margin: 20px 0 40px;
 }
 
@@ -138,7 +138,7 @@ p {
 
 .content p {
   font-size: 1.1rem;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
 }
 
 .content-image img {
@@ -158,10 +158,10 @@ p {
 
 footer {
   width: 100%;
-  background: #4b4a4a;
+  background: rgb(31, 31, 31);
   color: white;
   padding: 25px;
-  text-align: center;
+
 }
 
 .footer-container {
@@ -221,4 +221,7 @@ footer {
 }
 .officers-card h3 {
   text-align:center;
+}
+.line-1 {
+  border-top: 1px solid rgb(226, 198, 198);
 }
