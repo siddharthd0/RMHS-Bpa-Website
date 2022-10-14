@@ -201,7 +201,16 @@ footer {
   color: white;
   transition:300ms; 
 }
+.made-by {
+  text-align: right;
+  font-size:15px;
 
+}
+.made-by a{
+  transition:300ms;
+  color:white;
+}
+.made-by a:hover,
 .footer-content ul li a:hover,
 .footer-content ul li a:focus {
   color: #D1A370;
